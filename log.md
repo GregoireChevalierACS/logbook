@@ -13,3 +13,8 @@
 - Installation du module intl de PHP (requis pour les validators) dans Ubuntu 20.04
 
 Requirements met for symfony
+
+- Rename du repo Projet PHP de github en Projet Php Symfony TDD
+- Clone du projet Php Symfony TDD dans Ubuntu 20.04
+- Cleaning du repo
+- Création du squelette symfony avec ```symfony new projet_symfony_tdd --full```

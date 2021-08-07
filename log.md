@@ -18,3 +18,13 @@ Requirements met for symfony
 - Clone du projet Php Symfony TDD dans Ubuntu 20.04
 - Cleaning du repo
 - Création du squelette symfony avec ```symfony new projet_symfony_tdd --full```
+
+
+*07 Août 2021*
+
+
+Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/latest/installation.html)
+
+
+- Installation d'xDebug dans le dossier Hub d'Ubuntu 20.04
+- DL et installation de PHPUnit 9.5.8 global dans Ubuntu 20.04

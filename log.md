@@ -28,3 +28,6 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 
 - Installation d'xDebug dans le dossier Hub d'Ubuntu 20.04
 - DL et installation de PHPUnit 9.5.8 global dans Ubuntu 20.04
+- Création de controleur test dans le projet symfony
+- Installation & activation de l'extension mysql pour pdo dans le php.ini du projet symfony
+- Erreur symfony : An exception occurred in driver: could not find driver. Semble venir du fait que je suis sous wsl2. A creuser

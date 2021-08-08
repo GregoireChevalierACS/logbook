@@ -42,3 +42,8 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 
 - Résolution du problème  An exception occurred in driver: could not find driver sous WSL2 en changeant dans le .env la db de postgre (defaut) à mysql (lignes 30&31)
 - Arrivée sur An exception occurred in driver: SQLSTATE[HY000] [2002] Connection refused
+- Dive dans le DBAL (database abstraction layer (DBAL) https://www.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html)
+- Installation et déploiement de mysql dans WSL2 pour pallier à hy0000 2002 (https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html)
+- Installation de mysql dans ubuntu wslé (https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-fr)
+- Workaround suite à l'erreur 'cant connect to local mysql server through socket' (https://medium.com/@alef.duarte/cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysqld-sock-155d580f3a06)
+- MySql voué à échouer, installer mariadb sur ubuntu (https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04-quickstart-fr)

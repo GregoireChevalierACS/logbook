@@ -31,3 +31,14 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 - Création de controleur test dans le projet symfony
 - Installation & activation de l'extension mysql pour pdo dans le php.ini du projet symfony
 - Erreur symfony : An exception occurred in driver: could not find driver. Semble venir du fait que je suis sous wsl2. A creuser
+
+*08 Août 2021*
+
+
+- Installation de la CLI symfony sur windows
+- Installation de Composer sur windows avec creation du php.ini
+- Initialisation d'un projet symfony avec la commande composer, la cli de symfony ne marchant apparemment pas.
+- Création du fichier .php-version avec 7.4.9 dedans pour harmoniser avec la version de wamp et résoudre le problème de no input file specified
+
+- Résolution du problème  An exception occurred in driver: could not find driver sous WSL2 en changeant dans le .env la db de postgre (defaut) à mysql (lignes 30&31)
+- Arrivée sur An exception occurred in driver: SQLSTATE[HY000] [2002] Connection refused

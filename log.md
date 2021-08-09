@@ -53,4 +53,6 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 
 
 - Setup de clé ssh sur pc fixe perso
--  
+- Résolution du problème (WslRegisterDistribution failed with error: 0x8007019e) pour utilisation d'ubuntu sur pcfixe
+- Setup de clé ssh sur ubuntu 20.04 pc fixe perso
+- Install vscode sur ubuntu 20.04 pc fixe perso

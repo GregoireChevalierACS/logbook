@@ -47,3 +47,10 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 - Installation de mysql dans ubuntu wslé (https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-fr)
 - Workaround suite à l'erreur 'cant connect to local mysql server through socket' (https://medium.com/@alef.duarte/cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysqld-sock-155d580f3a06)
 - MySql voué à échouer, installer mariadb sur ubuntu (https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04-quickstart-fr)
+
+
+*09 Août 2021*
+
+
+- Setup de clé ssh sur pc fixe perso
+-  

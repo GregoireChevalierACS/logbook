@@ -68,3 +68,4 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 - Installation des dépendances nécessaires à symfony sur ubuntu 20.04 pc fixe perso
 - Installation de apt-get install php-mysql sur ubuntu 20.04 pc fixe perso, qui semble causer le probleme An exception occurred in driver: SQLSTATE[HY000] [2002] Connection refused
 
+- Tenter de remonter le projet avec un docker de services qui marchent

@@ -56,3 +56,15 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 - Résolution du problème (WslRegisterDistribution failed with error: 0x8007019e) pour utilisation d'ubuntu sur pcfixe
 - Setup de clé ssh sur ubuntu 20.04 pc fixe perso
 - Install vscode sur ubuntu 20.04 pc fixe perso
+
+
+*10 Août 2021*
+
+- Update de git à la version 2.32.0.2 sur pc fixe perso
+- Clone du projet Symfony TDD sur ubuntu 20.04 pc fixe perso
+- Installation de php 7.4 sur ubuntu 20.04 pc fixe perso
+- Installation de Composer sur ubuntu 20.04 pc fixe perso
+- Installation de la cli de symfony sur ubuntu 20.04 pc fixe perso
+- Installation des dépendances nécessaires à symfony sur ubuntu 20.04 pc fixe perso
+- Installation de apt-get install php-mysql sur ubuntu 20.04 pc fixe perso, qui semble causer le probleme An exception occurred in driver: SQLSTATE[HY000] [2002] Connection refused
+

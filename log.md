@@ -69,3 +69,13 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 - Installation de apt-get install php-mysql sur ubuntu 20.04 pc fixe perso, qui semble causer le probleme An exception occurred in driver: SQLSTATE[HY000] [2002] Connection refused
 
 - Tenter de remonter le projet avec un docker de services qui marchent
+
+
+*11 Août 2021*
+
+- Clone du projet symfony tdd dans dossier www wamp pc perso
+- Composer install
+- Modification du .env ligne 30 :
+```DATABASE_URL="mysql://root:@127.0.0.1:3306/db_name?serverVersion=5.7"```
+remplacement de db_user:db_password
+- php bin/console doctrine:database:create pour créer la bdd qui prend  le nom renseigné dans le .env (db_name)

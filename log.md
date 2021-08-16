@@ -79,3 +79,14 @@ Suivi des prérequis pour installer PHPUnit (https://phpunit.readthedocs.io/fr/l
 ```DATABASE_URL="mysql://root:@127.0.0.1:3306/db_name?serverVersion=5.7"```
 remplacement de db_user:db_password
 - php bin/console doctrine:database:create pour créer la bdd qui prend  le nom renseigné dans le .env (db_name)
+
+*16 Août 2021*
+
+- Reprise du projet paris sportif
+- Composer install des dépendances
+- Migrations bdd et fixtures de base
+
+- Projet test laravel
+- Activation de la distri ubuntu 20.04 dans les parametres/Resources/Wsl integration
+- Dans ubuntu, commande ```curl -s https://laravel.build/example-app | bash``` pour créer un projet template laravel
+- Dans le dossier test, commande : ```./vendor/bin/sail up``` pour créer, instaler et monter une image  de la CLI Laravel via docker

@@ -90,3 +90,19 @@ remplacement de db_user:db_password
 - Activation de la distri ubuntu 20.04 dans les parametres/Resources/Wsl integration
 - Dans ubuntu, commande ```curl -s https://laravel.build/example-app | bash``` pour créer un projet template laravel
 - Dans le dossier test, commande : ```./vendor/bin/sail up``` pour créer, instaler et monter une image  de la CLI Laravel via docker
+
+
+*17 Août*
+
+- Projet test laravel fonctionnel gité
+- Création de route perso
+
+
+*18 Août*
+
+- Récupération dossier node stage
+
+
+*26 Août*
+
+- Définition du planning pour les 7 jours à venir

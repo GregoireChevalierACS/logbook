@@ -106,3 +106,9 @@ remplacement de db_user:db_password
 *26 Août*
 
 - Définition du planning pour les 7 jours à venir
+
+
+*27 Août*
+
+- Reprise du projet tdt en tdd
+- Clean up du repo et revue des objectifs

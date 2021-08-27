@@ -114,3 +114,4 @@ remplacement de db_user:db_password
 - Clean up du repo et revue des objectifs
 - Installation de phpunit et premier test requete
 - Création de l'index php
+- Abandon test requete et premiers tests fonctionnels

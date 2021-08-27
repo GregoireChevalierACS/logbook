@@ -1,10 +1,10 @@
 27 / 08
 
-- redémarrage du projet php tennis de table en php o o sans framework
+- redémarrage du projet php tennis de table en php o o sans framework (**OK**)
 - conception du projet
-- mise en place des premiers tests phpunit
-- accès à une page index
-- relecture lcdr 1/5
+- mise en place des premiers tests phpunit (**OK**)
+- accès à une page index (**OK**)
+- relecture lcdr 1/5 (**OK**)
 
 28 / 08
 

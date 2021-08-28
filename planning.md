@@ -8,7 +8,7 @@
 
 28 / 08
 
-- relecture du code php tennis de table en php o o
+- relecture du code php tennis de table en php o o (**OK**)
 - test de l'interface index
 - modelisation de base
 - relecture lcdr 2/5

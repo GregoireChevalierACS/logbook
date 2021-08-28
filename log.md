@@ -115,3 +115,9 @@ remplacement de db_user:db_password
 - Installation de phpunit et premier test requete
 - Création de l'index php
 - Abandon test requete et premiers tests fonctionnels
+
+
+*28 Août*
+
+- Lecture de doc (https://phpunit.readthedocs.io/fr/latest/extending-phpunit.html)
+- Pour tester le contenu des champs, il faudra utiliser symfony

@@ -18,7 +18,7 @@
 - relecture du code php tennis de table en php o o
 - création de la bdd
 - tests de connexion à la bdd
-- relecture lcdr 3/5
+- relecture lcdr 3/5 (**OK**)
 
 30 / 08
 

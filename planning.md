@@ -25,7 +25,7 @@
 - relecture du code php tennis de table en php o o
 - création de tables dans la bdd
 - tests de connexion aux données
-- relecture lcdr 4/5
+- relecture lcdr 4/5 (**OK**)
 
 31 / 08
 
